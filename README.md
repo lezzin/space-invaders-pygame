@@ -80,8 +80,5 @@ Agora está tudo pronto... será aberto o menu do jogo. Utilizando o mouse, voc�
 </table>
 
 ## Links e contato:
-[Site Pygame](https://www.pygame.org/news)<br>
-[Instagram](https://www.instagram.com/leandroadrian_/)<br>
-[Linkedin](https://www.linkedin.com/in/leandro-adrian/)<br>
-Meu email: lezzin.contato@gmail.com<br>
+[Site Pygame](https://www.pygame.org/news) [Instagram](https://www.instagram.com/leandroadrian_/) [Linkedin](https://www.linkedin.com/in/leandro-adrian/)<br> Meu email: lezzin.contato@gmail.com<br>
 [Referência](https://www.youtube.com/watch?v=Q-__8Xw9KTM) - youtube
