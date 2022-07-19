@@ -1,5 +1,11 @@
 # Space Invaders - Pygame
-Resumidamente Pygame é uma biblioteca escrita em Python e baseada em SDL. Voltada para o desenvolvimento de games e interfaces gráficas, ele fornece acesso a áudios, teclados, controles, mouses e hardwares gráficos via OpenGL e Direct3D.<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lezzin&repo=Space-Invaders-pygame&theme=dark)
+
+Resumidamente [Pygame](https://www.pygame.org/news) 
+ é uma biblioteca escrita em Python e baseada em SDL. Voltada para o desenvolvimento de games e interfaces gráficas, ele fornece acesso a áudios, teclados, controles, mouses e hardwares gráficos via OpenGL e Direct3D.<br>
 ### A ideia de ter feito o jogo
 Eu e mais 3 amigos tivemos a ideia de construí-lo para um trabalho de Linguagens de Programação, no qual deveríamos criar qualquer jogo utilizando o módulo pygame. Todas as imagens utilizadas são autorais, criadas pelo João Vitor, os sons foram escolhidos pelo Miguel, e o Luis Gustavo me ajudou com a construção do código.
 
@@ -79,6 +85,10 @@ Agora está tudo pronto... será aberto o menu do jogo. Utilizando o mouse, voc�
   </tr>
 </table>
 
-## Links e contato:
-[Site Pygame](https://www.pygame.org/news) [Instagram](https://www.instagram.com/leandroadrian_/) [Linkedin](https://www.linkedin.com/in/leandro-adrian/)<br> Meu email: lezzin.contato@gmail.com<br>
-[Referência](https://www.youtube.com/watch?v=Q-__8Xw9KTM) - youtube
+### Contato
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandroadrian_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-adrian)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeandroAdrian)
+
+### Referência<br>
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Q-__8Xw9KTM)
