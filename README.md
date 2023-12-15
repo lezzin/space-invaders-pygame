@@ -1,4 +1,4 @@
-![Foto do projeto](https://github.com/lezzin/space-invaders-pygame/assets/103830032/6a8a7d8f-090f-4dae-a1ce-6330ec430ab7)
+![Foto do projeto](https://github.com/lezzin/space-invaders-pygame/assets/103830032/5fd76c96-5673-4f6a-b6ac-e77f1a3ca544)
 
 Eu e mais 3 amigos tivemos a ideia de construí-lo para um trabalho de Linguagens de Programação, no qual deveríamos criar qualquer jogo utilizando o módulo pygame. Todas as imagens utilizadas são autorais, criadas pelo João Vitor, os sons foram escolhidos pelo Miguel, e o Luis Gustavo me ajudou com a construção do código.
 
