@@ -1,13 +1,11 @@
-# Space Invaders - Pygame 🌌✈️
+![Foto do projeto](https://github.com/lezzin/space-invaders-pygame/assets/103830032/6a8a7d8f-090f-4dae-a1ce-6330ec430ab7)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lezzin&repo=Space-Invaders-pygame&theme=dark)
+Eu e mais 3 amigos tivemos a ideia de construí-lo para um trabalho de Linguagens de Programação, no qual deveríamos criar qualquer jogo utilizando o módulo pygame. Todas as imagens utilizadas são autorais, criadas pelo João Vitor, os sons foram escolhidos pelo Miguel, e o Luis Gustavo me ajudou com a construção do código.
 
 Resumidamente [Pygame](https://www.pygame.org/news) 
  é uma biblioteca escrita em Python e baseada em SDL. Voltada para o desenvolvimento de games e interfaces gráficas, ele fornece acesso a áudios, teclados, controles, mouses e hardwares gráficos via OpenGL e Direct3D.<br>
-### A ideia de ter feito o jogo
-Eu e mais 3 amigos tivemos a ideia de construí-lo para um trabalho de Linguagens de Programação, no qual deveríamos criar qualquer jogo utilizando o módulo pygame. Todas as imagens utilizadas são autorais, criadas pelo João Vitor, os sons foram escolhidos pelo Miguel, e o Luis Gustavo me ajudou com a construção do código.
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lezzin&repo=Space-Invaders-pygame&theme=dark)
 
 ![Imagem do jogo](https://user-images.githubusercontent.com/103830032/175787761-60b59f98-d29a-450b-9a3e-2d3411ce16d8.png)
 ## Objetivo:
