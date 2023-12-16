@@ -5,20 +5,17 @@ Eu e mais 3 amigos tivemos a ideia de construí-lo para um trabalho de Linguagen
 Resumidamente [Pygame](https://www.pygame.org/news) 
  é uma biblioteca escrita em Python e baseada em SDL. Voltada para o desenvolvimento de games e interfaces gráficas, ele fornece acesso a áudios, teclados, controles, mouses e hardwares gráficos via OpenGL e Direct3D.<br>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lezzin&repo=Space-Invaders-pygame&theme=dark)
-
-![Imagem do jogo](https://user-images.githubusercontent.com/103830032/175787761-60b59f98-d29a-450b-9a3e-2d3411ce16d8.png)
 ## Objetivo:
 - O objeto do jogo é simples, mate o maior número de inimigo possível, não deixando eles ultrapassarem a tela.<br>
 - A cada nivel, mais inimigos irão aparecer.<br>
 - Você tem 5 chances e perde caso alguma nave inimiga atravesse todo o mapa.
 
-## Inicialização do jogo:
+## Começando:
 Para executar o jogo e jogá-lo, você precisa ter o Python e o módulo Pygame instalado em seu PC. <br>
 Caso não tenha o Python, siga o passo a passo [para Linux](https://python.org.br/instalacao-linux/) ou [para Windows](https://python.org.br/instalacao-windows/).<br>
 Após o Python estar instalado, instale o pygame. Siga o passo-a-passo.
 
-### Pygame - para a sua instalação, é recomendável estar com o pip atualizado, para isso faça:
+Pygame - para a sua instalação, é recomendável estar com o pip atualizado, para isso faça:
 ```
 pip install --user --upgrade pip 
 ```
@@ -83,7 +80,13 @@ Agora está tudo pronto... será aberto o menu do jogo. Utilizando o mouse, voc�
   </tr>
 </table>
 
-### Contato
+## Tecnologias utilizadas:
+
+* Python
+* Pygame
+
+### 🔗 Minhas redes sociais para contato
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandroadrian_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-adrian)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeandroAdrian)
