@@ -1,5 +1,7 @@
 ![Foto do projeto](https://github.com/lezzin/space-invaders-pygame/assets/103830032/5fd76c96-5673-4f6a-b6ac-e77f1a3ca544)
 
+# Space Invaders
+
 Eu e mais 3 amigos tivemos a ideia de construí-lo para um trabalho de Linguagens de Programação, no qual deveríamos criar qualquer jogo utilizando o módulo pygame. Todas as imagens utilizadas são autorais, criadas pelo João Vitor, os sons foram escolhidos pelo Miguel, e o Luis Gustavo me ajudou com a construção do código.
 
 Resumidamente [Pygame](https://www.pygame.org/news) 
@@ -10,7 +12,8 @@ Resumidamente [Pygame](https://www.pygame.org/news)
 - A cada nivel, mais inimigos irão aparecer.<br>
 - Você tem 5 chances e perde caso alguma nave inimiga atravesse todo o mapa.
 
-## Começando:
+## Guia de instalação
+
 Para executar o jogo e jogá-lo, você precisa ter o Python e o módulo Pygame instalado em seu PC. <br>
 Caso não tenha o Python, siga o passo a passo [para Linux](https://python.org.br/instalacao-linux/) ou [para Windows](https://python.org.br/instalacao-windows/).<br>
 Após o Python estar instalado, instale o pygame. Siga o passo-a-passo.
@@ -25,9 +28,7 @@ pip install pygame
 ```
 Pronto, o Pygame está instalado 😀
 
-## Execute o jogo
-
-Primeiramente, certifique-se de ter extraído e adicionado a pasta do jogo no disco C.<br>
+Agora, certifique-se de ter extraído e adicionado a pasta do jogo no disco C.<br>
 Caso o caminho de seu terminal esteja assim:
 ```
 C:\Users\seunomedeusuario>
